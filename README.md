@@ -7,3 +7,5 @@ javac Paging.java\
 java Paging <command-line arguments>
 
 Note- Make sure that the random-numbers file is inside the current working directory. If not, give the full address.
+
+Refer to the paging.pdf file for instructions and input format. 
